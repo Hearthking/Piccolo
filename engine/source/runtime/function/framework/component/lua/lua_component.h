@@ -1,7 +1,7 @@
 #pragma once
 
 #include "runtime/function/framework/component/component.h"
-#include "sol\sol.hpp"
+#include "sol/sol.hpp"
 
 namespace Piccolo
 {
